@@ -13,7 +13,7 @@ The purpose of this search engine is to allow users to search through specific w
 
 This project was submitted to the C# instructor at Addis Ababa University as a 3rd year first semester final project. We are proud to share this app on GitHub as a learning resource for other students. Our hope is to encourage other students to refrain from copying code and instead use our project as inspiration for their own development projects. Thank you for using BELAH Search Engine!
 
-<p><b>Some examples of our Search engine</b></p>
+<p><b>Some <a href="https://github.com/Esubaalew/BELAH-Search-Engine/tree/master/ExampleImages">Images</a> examples of our Search engine</b></p>
 <figure>
 <img src="ExampleImages/aauexample.jpg" alt='search results form aau website' title ='AAU website results image '>
   <figcaption><i>Fig.1 - Results of 'Addis Ababa' query, on AAU search section.</i></figcaption>
