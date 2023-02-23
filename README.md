@@ -1,4 +1,4 @@
-                                                              BElAH SEARCH ENGINE
+                                                           BELAH SEARCH ENGINE
 
 Welcome to BELAH Search Engine! This is a simple search engine desktop application created using Winforms in C#. This app was made by a team of five students from the School of Information Sciences at Addis Ababa University, including Azeb Mihiretie, Lydiya Fikrie, Bereket Gebeyaw, Hayat Ebrahim, and Esubalew Chekol.
 
